@@ -76,7 +76,9 @@ session_start();
 	$totmarks=$_POST["totmarks"];
 	$time=$_POST["time"];
 	$date=$_POST["date"];
-
+	
+	
+	echo"<center><h2>Motilal Nehru National Institute Of Technology</h2></center>";
 	echo "<table border='0' align='center' width='800'>";
 	echo"<tr>";
 	echo"<td>Subject :$subject</td>";
